@@ -42,7 +42,7 @@ const techs = [
 	{ name: "GitHub", icon: <FaGithub style={{ color: "rgba(218, 71, 238, 1)" }} /> },
 ];
 
-const scrollAmount = 150;
+// const scrollAmount = 150;
 
 const Skills = () => {
   
